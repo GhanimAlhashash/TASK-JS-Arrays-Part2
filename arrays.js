@@ -13,7 +13,7 @@ function isArrayLengthOdd(numbers) {
     return true;
   } else return false;
 }
-
+//hi
 /**
  * isArrayLengthEven(numbers):
  * - receives array numbers
