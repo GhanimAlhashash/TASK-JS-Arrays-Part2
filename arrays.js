@@ -3,7 +3,7 @@
  * - receives array numbers
  * - returns true if array has an odd number of elements
  * - returns false otherwise
- *
+ *hi
  * e.g.
  * isArrayLengthOdd([1, 2, 3]) -> true
  * isArrayLengthOdd([1, 2, 3, 4]) -> flase
